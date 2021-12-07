@@ -1,1 +1,1 @@
-# Simples TAD na limguagem C
+# Simples TAD em C
