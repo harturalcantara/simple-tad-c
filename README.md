@@ -2,4 +2,8 @@
 Simple TAD in C
 
 # Portuguese
-Simples TAD em C
+Simples Tipo de Dado Abstrato (TAD) em C
+
+Hartur Alcântara
+linkedin.com/in/harturalcantara
+Software Developer
